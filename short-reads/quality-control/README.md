@@ -1,5 +1,8 @@
+__Work In Progress__
+
 # Short Read Quality Control
 
+## Goal of Comparisons
 
 ## Tools Compared
 * __fastp (vXXX)__  
@@ -17,3 +20,7 @@ _[Shovill GitHub Repo](https://github.com/tseemann/shovill/)_
 * __Trimmomatic (vXXX)__  
 A flexible trimmer for Illumina sequence data.  
 _Bolger, A. M., Lohse, M., & Usadel, B. (2014). [Trimmomatic: A flexible trimmer for Illumina Sequence Data.](https://doi.org/10.1093/bioinformatics/btu170) Bioinformatics, btu170._
+
+
+## Disclaimer
+These comparisons are not meant to be all encompassing (testing all preprocessors and all tools). Although these comparisons may be applicable to all Illumina sequences, these comparisons were meant for bacterial sequences. The parameters tested were what I use in my own analyses.
