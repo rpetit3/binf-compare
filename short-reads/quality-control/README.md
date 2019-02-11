@@ -14,6 +14,6 @@ _[illumina-cleanup GitHub Repo](https://github.com/rpetit3/illumina-cleanup)_
 Although Shovill is meant for short read assembly, it includes pre-proccessing steps.  
 _[Shovill GitHub Repo](https://github.com/tseemann/shovill/)_  
 
-* __Trimmomatic (vXXX)__
+* __Trimmomatic (vXXX)__  
 A flexible trimmer for Illumina sequence data.  
 _Bolger, A. M., Lohse, M., & Usadel, B. (2014). [Trimmomatic: A flexible trimmer for Illumina Sequence Data.](https://doi.org/10.1093/bioinformatics/btu170) Bioinformatics, btu170._
