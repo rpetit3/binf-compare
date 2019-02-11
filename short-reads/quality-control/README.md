@@ -10,7 +10,7 @@ _Shifu Chen, Yanqing Zhou, Yaru Chen, Jia Gu; [fastp: an ultra-fast all-in-one F
 A Nextflow powered pipeline for pre-processing Illumina sequence reads.  
 _[illumina-cleanup GitHub Repo](https://github.com/rpetit3/illumina-cleanup)_  
 
-* __Shovill (vXXX)__
+* __Shovill (vXXX)__  
 Although Shovill is meant for short read assembly, it includes pre-proccessing steps.  
 _[Shovill GitHub Repo](https://github.com/tseemann/shovill/)_  
 
